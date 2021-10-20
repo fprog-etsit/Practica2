@@ -95,7 +95,7 @@ La evaluación se basará en la corrección de la clase **AreaHospitalizacion**.
 
 ## Entrega de la práctica
 
-La práctica se estar entregada en Moodle antes de las 23:55 del día **MODIFICAR FECHA**.
+La práctica se estar entregada en Moodle antes de las 23:55 del **viernes 19 de Noviembre de 2021**.
 
 Cuando haya completado todas las clases pedidas y esté seguro de que funcionan correctamente, es decir, haN pasado con éxito las pruebas que se proporcionan en el proyecto, puede obtener una indicación aproximada de su nota en la práctica mediante unas pruebas automáticas parecidas a las que llevarán a cabo los profesores. Esta es una mera indicación, sin valor académico; la nota real será la que obtenga tras subir su práctica a Moodle en el período de entrega, los profesores corrijan todas las prácticas y revisen que no hay copias de código, un tiempo después de la fecha de entrega de la práctica.
 
