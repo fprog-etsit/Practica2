@@ -113,7 +113,7 @@ Cuando esté convencido de que puede subir su práctica (por supuesto, antes de 
 
 ## IMPORTANTE
 
-Es importante subir el fichero fprg-practica2-2021.zip tal cual lo construye y lo deja en el proyecto eclipse el script de entrega Practica2Entrega.launnch. Es IMPORTANTE NO hacer lo siguiente:
+Es importante subir el fichero fprg-practica2-2021.zip tal cual lo construye y lo deja en el proyecto eclipse el script de entrega Practica2Entrega.launch. Es IMPORTANTE NO hacer lo siguiente:
 
 - Cambiar el nombre al fichero
 - Subir el export de eclipse del proyecto
