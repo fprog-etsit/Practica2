@@ -110,3 +110,13 @@ Para obtener la nota aproximada debe seguir estos pasos:
 Cuando esté convencido de que puede subir su práctica (por supuesto, antes de que acabe el plazo de entrega), debe hacerlo como sigue:
 
 - En el curso FPRG de Moodle, junto a la presentación de la práctica, hay un punto de entrega Moodle que se llama "Practica2Entrega". En ese punto de entrega se debe subir el fichero .zip que nos ha creado la entrega en el proyecto eclipse. En ese zip tenemos todo lo que hay que entregar.  El script de entrega puede detectar situaciones anómalas muy diversas en las que no se puede realizar la entrega, como por ejemplo: la práctica no compila, las clases o métodos no se ajustan al enunciado. En esos casos no se crea/actualiza el fichero .zip, ni se ejecutan las pruebas de evaluación. Para poder generar el zip hay que arreglar esos problemas. Solo se corregirá la última entrega subida a "Practica2Entrega".
+
+## IMPORTANTE
+
+Es importante subir el fichero fprg-practica2-2021.zip tal cual lo construye y lo deja en el proyecto eclipse el script de entrega Practica2Entrega.launnch. Es IMPORTANTE NO hacer lo siguiente:
+
+- Cambiar el nombre al fichero
+- Subir el export de eclipse del proyecto
+- Comprimir una carpeta y subir esa carpeta
+
+En cualquiera de esos casos la práctica se dará por incorrecta y se puntuará a 0.
