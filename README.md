@@ -79,7 +79,7 @@ modificaciones han sido las siguientes:
 
 - El atributo grupoSanguineo ha pasado a ser del tipo enum GrupoSanguineo (en la práctica 1 era de tipo String).
 
-- El atributo temperatura ha pasado a ser un array de tipo double, que representa las últimas 5 mediciones de temperatura de un paciente, en ºC.
+- El atributo temperatura ha pasado a ser un array de tipo double, que representa las últimas 5 mediciones de temperatura de un paciente, en ºC. Se puede suponer que se realiza solo una medición por día.
 
 ### Extensión de la clase PruebaAreaHospitalizacion.java
 
