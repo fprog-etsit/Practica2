@@ -58,7 +58,7 @@ Existen diferentes entornos de desarrollo (IDEs) para desarrollar código Java, 
 
 En Eclipse debe seguir los siguientes pasos:
 
-- Descargue de Github pulsando sobre el botón _Code->Download ZIP_ el fichero zip que encontrará en la entrada _Práctica 1 - Main_.
+- Descargue de Github pulsando sobre el botón _Code->Download ZIP_ el fichero zip que encontrará en la entrada _Práctica 2 - Main_.
 - Importe el proyecto con _Import->Existing Projects into Workspace_ e indique la localización del fichero zip descargado usando la opción _Select archive file_.
 - Dentro del proyecto, en la carpeta _src_, encontrará un paquete llamado **es.upm.dit.fprg23.p2**, siguiendo el convenio más extendido de nomenclatura de paquetes: Práctica 2 (**p2**) de la asignatura FPRG Curso 2023-2024 (**fprg23**) del Departamento de Ingeniería de Sistemas Telemáticos (**dit**) de la Universidad Politécnica de Madrid (**upm**) de España (**es**).
 - También encontrará las clases ``PruebaUnidadHospitalizacion.java``, ``Paciente.java`` y ``GrupoSanguineo.java``.
