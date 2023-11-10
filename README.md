@@ -72,7 +72,7 @@ En este punto, ya deberíamos poder ver las tres clases mencionadas en nuestro e
 En esta tarea, se debe crear una clase en el paquete de la práctica. Dicha clase será un modelo del área de hospitalización con diferentes plantas, pasillos y habitaciones. Para ello, la clase deberá tener los siguientes atributos:
 
 - nombre, tipo String.
-- pacientes, tipo Pacientes[][][], es decir, un array de tres dimensiones, las cuales representarán, respectivamente, [planta][pasillo][habitación].
+- pacientes, tipo Paciente[][][], es decir, un array de tres dimensiones, las cuales representarán, respectivamente, [planta][pasillo][habitación].
 
 Además, deben implementarse todos los métodos que se exponen en el documento **Especificación de UnidadHospitalizacion.pdf**, disponible en este repositorio. El orden en el que se desarrollan los métodos no es relevante. Sin embargo, se recomienda comenzar por los siguientes métodos:
 
