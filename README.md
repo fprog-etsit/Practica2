@@ -63,9 +63,12 @@ En esta tarea, se debe crear la clase `Inventario` en el paquete correspondiente
 - `hospital`, tipo `String`: nombre del hospital asociado.
 - `dispositivos`, tipo `DispositivoMedico[][][]`: array tridimensional que representa la estructura de almacenamiento de dispositivos. Las dimensiones representan, respectivamente, [planta][almacén][armario].
 
-Además, deben implementarse todos los métodos indicados en el documento **Especificación de la clase Inventario.pdf**, disponible en este repositorio. No se requiere seguir un orden estricto al desarrollar los métodos, aunque se recomienda seguir el orden por el que aparecen en la sección `Method details` de la especificación.
+Además, deben implementarse todos los métodos indicados en el documento **Especificación de la clase Inventario.pdf**, disponible en este repositorio. 
 
-Esto se debe a que algunos de los métodos anteriores podrían ser útiles para probar o desarrollar el resto de métodos requeridos.
+> [!TIP]
+> Recomendamos que no leáis el PDF directamente desde Github, sino que os lo descarguéis y lo abráis desde vuestro ordenador.
+
+No se requiere seguir un orden estricto al desarrollar los métodos, aunque se recomienda seguir el orden por el que aparecen en la sección `Method details` de la especificación. Esto se debe a que algunos de los métodos anteriores podrían ser útiles para probar o desarrollar el resto de métodos requeridos.
 
 **IMPORTANTE**: La clase `DispositivoMedico` (ya creada en el proyecto) ha sido modificada para la presente práctica. Revise las modificaciones y téngalas en cuenta cuando desarrolle la clase `Inventario` pedida. Las
 modificaciones han sido las siguientes:
