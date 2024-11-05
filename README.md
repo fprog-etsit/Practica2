@@ -84,7 +84,7 @@ La tarea consiste en extender esta clase, añadiendo pruebas que cubran todas la
 
 ## Entrega de la práctica
 
-La práctica debe entregarse mediante el enlace habilitado en Moodle antes de las 23:55 del **XXX de Noviembre de 2024**.
+La práctica debe entregarse mediante el enlace habilitado en Moodle antes de las 23:55 del **27 de Noviembre de 2024**.
 
 Para realizar la entrega, se debe generar un fichero .zip con el proyecto exportado, que debe contener todas las carpetas y ficheros asociados. Para exportar el proyecto en Eclipse, siga estos pasos:
 
